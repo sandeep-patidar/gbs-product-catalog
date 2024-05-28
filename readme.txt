@@ -5,7 +5,7 @@ Donate link: https://globalbizsol.com
 Tags: Products Showcase, Products Catalog , Simple Catalog , Business Catalog Business Portfolio, Project Portfolio, Simple Portfolio.
 Requires at least: 5.0
 Tested up to: 5.7
-Stable tag: 1.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -65,13 +65,6 @@ If you liked our free plugins and want to help us maintain them and to create ne
 3. Displays Single Product Page.
 
 == Changelog ==
-
-= 1.1 = 
-* Fixed design issues.
-* Compatibility check for Wordpress 5.7.
-* Add template for taxonomy page.
-* Change post type and taxonomy name to avoid conflicts with other plguin.
-* Change shortcode.
 
 = 1.0 =
 * Initial Release.
