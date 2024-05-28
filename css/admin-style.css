@@ -1,0 +1,29 @@
+.customcss{
+    width: 500px;
+    height: 130px;
+    padding: 10px;
+   }
+.gbspc_setting tbody tr {
+    line-height: 4;
+    padding: 10px;
+}
+.gbspc_setting table td{
+    padding-right: 20px;
+}
+.gbspc_setting tbody tr td select{
+    width: 250px;
+}
+.gbspc_setting .button, .gbspc_setting .button:hover{
+    background: #f29b09 none repeat scroll 0 0;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 100%;
+    margin: 15px 0;
+    padding: 4px 12px;
+    text-transform: capitalize;
+}
+.gbspc_setting h1{
+    color:#F29B09;
+    margin-top:30px;
+}
