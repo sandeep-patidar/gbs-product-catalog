@@ -5,7 +5,7 @@ Plugin URI: https://wordpress.org/plugins/gbs-product-catalog/
 Description: GBS Product Catalog plugin allows you to display products catalog, display your projects or Business Catalog. Its easy to use and easily customizable with various settings.
 Author: GBS Developer
 Author URI: https://globalbizsol.com/
-Version: 1.1
+Version: 1.0
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
